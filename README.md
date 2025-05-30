@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:contact.nebuladev@gmail.com">📧 contact.nebuladev@gmail.com</a> • 
-  <a href="https://www.linkedin.com/company/nebuladev">LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/nebuladev-contact-94b007369/">LinkedIn</a> • 
   <a href="https://www.instagram.com/nebula_.dev/">Instagram</a>
 </p>
 
